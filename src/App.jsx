@@ -9,8 +9,7 @@ import BookDemo from "./pages/BookDemo";
 
 import './App.css';
 import HomePage from "./pages/HomePage";
-import FeatureSection from "./pages/home/FeatureSection";
-import Navbar from "./pages/home/navbar";
+import Navbar from "./pages/home/Navbar";
 
 
 
